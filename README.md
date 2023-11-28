@@ -9,7 +9,7 @@
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Roozenlz&theme=dark&hide_border=true" />
 </div>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Roozenlz&bg_color=ffffff&color=000000&line=50f708&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Roozenlz&bg_color=ffffff&color=000000&line=50f708&point=ff0000&area=true&hide_border=true)
 
 
 
